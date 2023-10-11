@@ -1,5 +1,5 @@
 sqlalchemy-pymssql-sybase
-=================
+=========================
 
 .. image:: https://img.shields.io/pypi/dm/sqlalchemy-pymssql-sybase.svg
         :target: https://pypi.org/project/sqlalchemy-pymssql-sybase/

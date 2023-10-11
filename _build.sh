@@ -1,3 +1,3 @@
 #!/usr/bin/bash
-rm dist/*
-python setup.py sdist bdist_wheel
+rm -rf dist/*
+python3 -m build
